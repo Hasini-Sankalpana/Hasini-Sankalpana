@@ -1,3 +1,4 @@
+
 <h1 align="center">Hey there, I'm <a href="https://github.com/Hasini-Sankalpana/Hasini-Sankalpana">Hasini Sankalpana</a></h1>
 <h3 align="center">A passionate coder from Sri Lanka</h3>
 
@@ -20,9 +21,6 @@
 
 ## Programing Languages:
 <p align="left"> <a href="https://github.com/Hasini-Sankalpana/Hasini-Sankalpana"><img src="https://skillicons.dev/icons?i=c,cs,java,html,css,python"> </a> </p>
-
-## Softwares and Tools:
-<p align="left"> <a href="https://github.com/Hasini-Sankalpana/Hasini-Sankalpana"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,replit,github,git"> </a> </p>
 
 ## GitHub Stats:
 
