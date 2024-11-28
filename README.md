@@ -20,7 +20,7 @@
 </p>
 
 ## Programing Languages:
-<p align="left"> <a href="https://github.com/Hasini-Sankalpana/Hasini-Sankalpana"><img src="https://skillicons.dev/icons?i=c,cs,java,javascript,html,css,python"> </a> </p>
+<p align="left"> <a href="https://github.com/Hasini-Sankalpana/Hasini-Sankalpana"><img src="https://skillicons.dev/icons?i=c,cs,java,javascript,html,css,python,nodejs,expressjs,sql"> </a> </p>
 
 ## GitHub Stats:
 
