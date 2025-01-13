@@ -12,11 +12,11 @@
 
 - 💬 Ask me about **HTML, CSS and JavaScript.**
 
-- 📫 Contact me via **hansisansika@gmail.com**
+- 📫 Contact me via **silvahasini085@gmail.com**
 
 ## Connect with Me:
 <p align="left">
-<a href="https://www.linkedin.com/in/hasini-sankalpana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavindudilshan84" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hasini-sankalpana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasini sankalpana" height="30" width="40" /></a>
 </p>
 
 ## Programing Languages:
