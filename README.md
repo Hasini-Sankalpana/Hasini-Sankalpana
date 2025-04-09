@@ -21,8 +21,20 @@
 <a href="https://www.linkedin.com/in/hasini-sankalpana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasini sankalpana" height="30" width="40" /></a>
 </p>
 
-## Programing Languages:
+## Programming Languages:
 <p align="left"> <a href="https://github.com/Hasini-Sankalpana/Hasini-Sankalpana"><img src="https://skillicons.dev/icons?i=c,cs,java,javascript,html,css,python,nodejs"> </a> </p>
+
+## Frameworks & Tools:
+<p align="left">
+<a href="https://github.com/Hasini-Sankalpana/Hasini-Sankalpana"><img src="https://skillicons.dev/icons?i=git,github,vscode,react,bootstrap,figma,netlify"></a>
+</p>
+
+## GitHub Trophies:
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=Hasini-Sankalpana&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="Hasini's trophies" />
+</a>
+</p>
 
 ## GitHub Stats:
 
